@@ -1,6 +1,6 @@
 # Anduril-E70Style
 
-Intended for Noctigon lights with tailswitches, this version of Anduril has been modified to behave like the Acebeam E70. A single press of the button while off will not do anything, which helps prevent accidental activations. Two successive presses of the button are required to turn the light on. Momentary mode has also been removed.
+Intended for Noctigon lights with tailswitches, this version of Anduril 2 has been modified to behave like the Acebeam E70. A single press of the button while off will not do anything, which helps prevent accidental activations. Two successive presses of the button are required to turn the light on. Momentary mode has also been removed.
 
 ## OPERATION
 
