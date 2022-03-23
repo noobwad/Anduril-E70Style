@@ -32,7 +32,7 @@ There are three hex files in the Hexes directory. Select the appropriate hex for
 - `E70Style-FET.hex` is for all other versions of the KR4, and the SBT90.2 version of the KR1.
 
 ### Build Your Own
-These are for single-channel configurations. For any custom configuration, download the desired `.h` config file from ToyKepper's flashlight firmware repository. Go to the `main.c` file under the Anduril Code directory and modify line 57 `#define CONFIGFILE` with the intended configuration.
+These are for single-channel configurations. For any custom configuration, download the desired `.h` config file from ToyKeeper's flashlight firmware repository. Go to the `main.c` file under the Anduril Code directory and modify line 57 `#define CONFIGFILE` with the intended configuration.
 
 Config files available on the flashlight firmware repository here: https://bazaar.launchpad.net/~toykeeper/flashlight-firmware/trunk/files/head:/ToyKeeper/spaghetti-monster/anduril
 
