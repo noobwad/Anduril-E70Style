@@ -1,0 +1,12 @@
+# CHANGELOG
+
+[1.0.1] - 2022-03-31
+
+- Light no longer briefly turns off when performing 3C/3H
+
+- Adjusted order of some code (no functional change)
+
+
+[1.0.0] - 2022-03-21
+
+- Changed number of clicks required to turn the light on, turn on to high, turn on to low, activate batteyr check, and activate candle mode 
